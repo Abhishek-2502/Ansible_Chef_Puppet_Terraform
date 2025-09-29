@@ -1,17 +1,12 @@
-**Terraform:**  
-For Provisioning Infra (Provisioning Tool) (Decommisioning Tool)
+**Terraform:** For Provisioning Infra (Provisioning Tool) (Decommisioning Tool)
 
-**Ansible:**  
-For managing and updating Infra 
+**Ansible:** For managing and updating Infra 
 
-**Chef:**      
-Similar to Ansible
+**Chef:** Similar to Ansible but pull based
 
-**Prometheus:** 
-Observability (Monitoring CPU, Network,etc metrics, Logging, Tracing for errors, Alerting)
+**Prometheus:** Observability (Monitoring CPU, Network,etc metrics, Logging, Tracing for errors, Alerting)
 
-**Grafana:**  
-Dashboard for Prometheus data
+**Grafana:** Dashboard for Prometheus data
 
 
 ## INSTALLATION:

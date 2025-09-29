@@ -26,7 +26,7 @@ block parameters{
 
 Init -> plan -> apply
 
-## Commands:
+## COMMANDS:
 ### INITIALIZE COMMANDS:
 - **terraform init:** 
 Initialize the Terraform working directory. This command downloads the necessary provider plugins and sets up the backend for state management.
@@ -93,3 +93,7 @@ Mark a resource as tainted, meaning it will be recreated on the next apply
 
 ### Provider
 Make terraform.tf to download provider manually.
+
+
+## Author
+Abhishek Rajput
